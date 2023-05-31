@@ -1,15 +1,19 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Emeka Momodu",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "index.js",
-	"scripts": {
-		"start": "node index.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "version": "1.2.0",
+  "author": "Emeka Momodu",
+  "description": "A project that does something awesome",
+  "license": "MIT",
+  "keywords": ["descriptive", "related", "words", "freecodecamp"],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
